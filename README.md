@@ -55,6 +55,12 @@ httpd.serve_forever()
 
 ## CLIENT SIDE OUTPUT:
 
-![Output](http://localhost:8080/)
+![client side](http://localhost:8080/)
 
+## SERVER SIDE:
+
+![server side](mywebserver.py)
+
+![server side](mywebserver.py)
 ## RESULT:
+Thus ,a simple webserver is created to display top five programming languages.
