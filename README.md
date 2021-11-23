@@ -53,5 +53,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+## CLIENT SIDE OUTPUT:
+![client side output](./Clientside.png)
 
 ## RESULT:
