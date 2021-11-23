@@ -54,6 +54,14 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ## CLIENT SIDE OUTPUT:
-![client side output](./Clientside.png)
+![output 1](CSS1.png)
+
+![output 2](CSS2.png)
+
+![output 3](CSS3.png)
+
+![output 4](CSS4.png)
+
+![output 5](CSS5.png)
 
 ## RESULT:
