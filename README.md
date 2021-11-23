@@ -55,6 +55,6 @@ httpd.serve_forever()
 
 ## CLIENT SIDE OUTPUT:
 
-![Output](css1.png)
+![Output](http://localhost:8080/)
 
 ## RESULT:
