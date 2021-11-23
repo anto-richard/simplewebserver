@@ -55,12 +55,16 @@ httpd.serve_forever()
 
 ## CLIENT SIDE OUTPUT:
 
-![client side](http://localhost:8080/)
+![client side](http://localhost:8080)![image](https://user-images.githubusercontent.com/93427534/143083872-d0c8a961-04c6-48fb-a996-d283d01419dd.png)
+
+
 
 ## SERVER SIDE:
 
-![server side](mywebserver.py)
+![server side](mywebserver.py)![image](https://user-images.githubusercontent.com/93427534/143083971-bcac4d02-0885-4a53-a9d8-51fdb5813afc.png)
 
-![server side](mywebserver.py)
+
+![server side](mywebserver.py)![image](https://user-images.githubusercontent.com/93427534/143084015-0ff203e8-54b0-46a0-8295-7a6d8e9d05dc.png)
+
 ## RESULT:
 Thus ,a simple webserver is created to display top five programming languages.
