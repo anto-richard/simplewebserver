@@ -55,7 +55,7 @@ httpd.serve_forever()
 
 ## CLIENT SIDE OUTPUT:
 
-![Client Side Output](./images/clientoutput.png)
+![Client Side Output](http://localhost:8080/)
 
 ## SERVER SIDE:
 
