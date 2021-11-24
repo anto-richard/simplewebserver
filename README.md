@@ -58,7 +58,6 @@ httpd.serve_forever()
 ![Client Side Output](./clientoutput.png)
 
 
-
 ## SERVER SIDE:
 
 ![Server Side Output](./serveroutput1.png)
